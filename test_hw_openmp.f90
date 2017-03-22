@@ -74,7 +74,7 @@ contains
    write (*,'(a)') '! *** CODE DEVELOPMENT REQUIRED ***'        
    write (*,'(a)') '!     THE BODY OF THE FOLLOWING'        
    write (*,'(a)') '!     SUBROUTINE MUST BE DEVELOPED'        
-   write (*,'(a)') '!     FOR THE FINAL ASSIGNMENT'
+   write (*,'(a)') '!     FOR THE OpenMP HW ASSIGNMENT'
    stop
 
   end subroutine matvec
