@@ -8,7 +8,7 @@
 
 #Please set up this environment variable such that it points to
 #the proper ABSOLUTE path where the compiled test_hw_openmp
-DRIVER_PROGRAM_ABS_PATH=$HOME/mnme_ddlssc_hw_openmp_skeleton/test_hw_openmp
+DRIVER_PROGRAM_ABS_PATH=$HOME/Rafael/lab/Assignment/Assignment_1/mnme_ddlssc_hw_openmp_skeleton/test_hw_openmp
 
 #The value of this environment variable should be modified in order
 #to play around different SCHEDULE STRATEGIES and several chunk sizes
